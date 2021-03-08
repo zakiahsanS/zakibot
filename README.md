@@ -1,8 +1,7 @@
+<p 
+</p>y
 <p align="center">
-<img src=https://i.ibb.co/fkXKKHH/dnsnew.jpg" alt="20210103-132024" border="0">
-</p>
-<p align="center">
-<a href="https://github.com/denisputraa">
+<a href="https://github.com/zakiahsanS">
 </p>
 
   
@@ -18,11 +17,11 @@
 ## Clone This Project
 
 ```bash
-> git clone https://github.com/denisputraa/dnsbot
+> git clone https://github.com/zakiahsanS/botwea
 ```
 
 ```bash
-> cd dnsbot
+> cd botwea
 > bash install.sh
 ```
 
@@ -39,6 +38,7 @@
 
 
 ## Sosmed
-* [`YouTube`](https://youtube.com/channel/UCdAlsvg9B6llWCWV8JMNhug)
-* [`WhatsApp`](https://chat.whatsapp.com/Hpwp8FBfJMtHEN5KeuFJKw)
-* [`Instagram`](https://instagram.com/denssptraa)
+* [`YouTube`](https://youtube.com/channel/c/MikazuMZ)
+
+* [`WhatsApp`](https://wa.me/6283144780782)
+* [`Instagram`](https://instagram.com/sanglord_)
