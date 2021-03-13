@@ -4,7 +4,7 @@ const help = (prefix, instagram, yt, name, pushname2, user, limitt, uptime, jam,
 │× ᴛᴇʟᴇᴘᴏɴ
 │ᴍᴇʟᴀɴɢɢᴀʀ? ʙʟᴏᴄᴋ!
 │ᴋᴇᴛɪᴋ #ᴍᴇɴᴜ
-│ᴜɴᴛᴜᴋ ᴍᴇʟɪʜᴀᴛ ғɪᴛᴜʀ ᴅɴꜱ ʙᴏᴛ
+│ᴜɴᴛᴜᴋ ᴍᴇʟɪʜᴀᴛ ғɪᴛᴜʀ ʙᴏᴛ
 ┬
 ╰──────「 *_lordBOTZ_* 」
 `
