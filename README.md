@@ -17,11 +17,11 @@
 ## Clone This Project
 
 ```bash
-> git clone https://github.com/zakiahsanS/lord-bot
+> git clone https://github.com/zakiahsanS/ZakiBot
 ```
 
 ```bash
-> cd lord-bot
+> cd ZakiBot
 > bash install.sh
 ```
 
