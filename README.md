@@ -29,7 +29,9 @@
 ```bash
 > node index.js
 ```
-
+### API KEY GRATIS
+* [ApiKey](https://mr-zk1.herokuapp.com/)
+* [Wa](https://wa.me/62831447807821)
 
 ## Special Thanks To
 * [`Fxc7`](https://github.com/Fxc7)
